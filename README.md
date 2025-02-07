@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **msa07886@gmail.com**
 
-- ⚡ Fun fact **I'm a versatile developer who enjoys both optimizing backend logic (like crafting efficient TypeScript functions) and designing elegant frontends (like creating custom UI components). It’s like being a Swiss Army knife of coding! 🚀**
+- ⚡ Fun fact **I'm a versatile developer who enjoys both optimizing backend logic (like crafting efficient functions) and designing elegant frontends (like creating custom UI components). It’s like being a Swiss Army knife of coding! 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
