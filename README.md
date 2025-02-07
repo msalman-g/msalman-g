@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://linkedin.com/in/msalmanghazi">Muhammad Salman</a>/h1>
+<h1 align="center">Hi 👋, I'm <a href="https://linkedin.com/in/msalmanghazi">Muhammad Salman</a></h1>
 
 <h3 align="center">A passionate software engineer (L4) working at Motive</h3>
 
