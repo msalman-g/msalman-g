@@ -1,6 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQE-5Q-evNzR2Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1688467501706?e=2147483647&v=beta&t=WKY5olZZi3GUh2nF2IFRGUwpGeV2elFznXr3Jkytn_M)](https://linkedin.com/in/msalmanghazi)
-
-<h1 align="center">Hi 👋, I'm <a href="https://linkedin.com/in/msalmanghazi">Muhammad Salman<</a>/h1>
+<h1 align="center">Hi 👋, I'm <a href="https://linkedin.com/in/msalmanghazi">Muhammad Salman</a>/h1>
 
 <h3 align="center">A passionate software engineer (L4) working at Motive</h3>
 
